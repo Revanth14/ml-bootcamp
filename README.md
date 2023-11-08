@@ -1,1 +1,1 @@
-# Documenting ML Bootcamo Journey
+# Documenting ML Bootcamp Journey
